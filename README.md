@@ -112,7 +112,7 @@ To make this work, modify the Vue data in `script.js` to read:
   },
 ```
 
-This removes the static list of items and creates the new variable,
+This creates the new variable,
 message, that is bound to the form input.
 
 Next, add the following after the `data` declaration in `script.js`:
