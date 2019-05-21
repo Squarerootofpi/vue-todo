@@ -5,7 +5,7 @@ This is a simple todo list application built using [Vue](https://vuejs.org/).
 To learn how this is built, clone this repository, then write
 code in `index.html` and `script.js`.
 
-Inside your cloned repository, start up a Python server to view the
+If you dont have a web server running, start up a Python server to view the
 site in your browser:
 
 ```
