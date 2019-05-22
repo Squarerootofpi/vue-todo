@@ -29,7 +29,7 @@ Start with this in the `body`:
     </ul>
   </div>
   <script src="https://cdn.jsdelivr.net/npm/vue@2.6.2/dist/vue.js"></script>
-  <script src="/script.js"></script>
+  <script src="script.js"></script>
 </body>
 ```
 
