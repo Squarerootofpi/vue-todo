@@ -397,8 +397,8 @@ item ahead of the one it is dropped onto.
 You should now be able to use drag-and-drop to reorder the items in
 the list. Isn't this fantastic?!
 
-The entire `index.html` is 34 lines of code, and `script.js` is 64
-lines of code.
+The entire `index.html` is 37 lines of code, and `script.js` is 70
+lines of code.  Not bad for a fully functional todo list.
 
 You can examine the styles in `styles.css` to see how we made those
 work.
